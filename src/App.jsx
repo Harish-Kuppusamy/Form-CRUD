@@ -1,6 +1,6 @@
 import { useState } from 'react'
 import './App.css'
-import Form from './components/form'
+import Form from './components/Form'
 import Table from './components/table'
 function App() {
 
