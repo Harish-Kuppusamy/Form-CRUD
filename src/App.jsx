@@ -1,7 +1,7 @@
 import { useState } from 'react'
 import './App.css'
 import Form from './components/Form'
-import Table from './components/table'
+import Table from './components/Table'
 function App() {
 
   const initialFormData = {
